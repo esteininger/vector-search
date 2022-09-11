@@ -34,7 +34,7 @@ Here is how you may use a Vector Search engine within your application search en
 | --- | ------------------------------ | ------------ |
 | 1   | [Sentence Similarity](#)       | Determination of how similar to texts are. |
 | 2   | [Named Entity Recognition](#)  | Classification of text into pre-defined categories. |
-| 3   | [Question and Answering](#)    | Building systems that automatically answer questions. |
+| 3   | [Question and Answering](/use-cases/question-and-answering)    | Building systems that automatically answer questions. |
 | 3   | [Personalization](#)   | Using client data to personalize query results. |
 
 ## Architecture

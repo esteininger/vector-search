@@ -20,30 +20,33 @@ Here is how you may use a Vector Search engine within your application search en
 
 ## Foundations
 
-| #   | Label                                 | Description  |
-| --- | ------------------------------------- | ------------ |
-| 1   | [Word vs Vector Search](#)            | The difference between standard (TF-IDF) word search and vector search and when to use each.|
-| 2   | [DIY Word Embeddings](#)              | An educational walkthrough of building your own word embedding vector model. |
-| 3   | [TBD Vector Search](#)              | Guides that showcase TBD's vector search implementation. |
-| 4   | [Vector Model Comparisons](#)         | A comparison of the most popular vector models and trade-offs between each. |
-| 5   | [Vector Search Engine Comparisons](#) | A comparison of the most popular vector search engines comparing query syntax, index definitions and document structures.  |
+| #   | Label                                 | Description                                                                                                               |
+| --- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Word vs Vector Search](#)            | The difference between standard (TF-IDF) word search and vector search and when to use each.                              |
+| 2   | [DIY Word Embeddings](#)              | An educational walkthrough of building your own word embedding vector model.                                              |
+| 3   | [TBD Vector Search](#)                | Guides that showcase TBD's vector search implementation.                                                                  |
+| 4   | [Vector Model Comparisons](#)         | A comparison of the most popular vector models and trade-offs between each.                                               |
+| 5   | [Vector Search Engine Comparisons](#) | A comparison of the most popular vector search engines comparing query syntax, index definitions and document structures. |
 
 ## Use Cases
 
-| #   | Label                          | Description  |
-| --- | ------------------------------ | ------------ |
-| 1   | [Sentence Similarity](#)       | Determination of how similar to texts are. |
-| 2   | [Named Entity Recognition](#)  | Classification of text into pre-defined categories. |
-| 3   | [Question and Answering](/use-cases/question-and-answering)    | Building systems that automatically answer questions. |
-| 3   | [Personalization](#)   | Using client data to personalize query results. |
+| #   | Label                                                       | Description                                           |
+| --- | ----------------------------------------------------------- | ----------------------------------------------------- |
+| 1   | [Sentence Similarity](#)                                    | Determination of how similar to texts are.            |
+| 2   | [Named Entity Recognition](#)                               | Classification of text into pre-defined categories.   |
+| 3   | [Question and Answering](/use-cases/question-and-answering) | Building systems that automatically answer questions. |
+| 4   | [Personalization](#)                                        | Using client data to personalize query results.       |
+| 5   | [Automated Synonym Creation](#)                             | Lorem ipsum.                                          |
+| 6   | [Content Creation](#)                                       | Lorem ipsum.                                          |
 
 ## Architecture
 
-| #   | Source                      | Description |
-| --- | --------------------------- | ----------- |
-| 1   | [Reference Architecture](#) | Common best-practices for deploying vector search architecture in production.      |
-| 2   | [Model Hosting](#)          | Suggestions on how to host your vector models.       |
-| 3   | [Model Versioning](#)       | Common best-practices for versioning your models as they evolve.       |
+| #   | Source                      | Description                                                                   |
+| --- | --------------------------- | ----------------------------------------------------------------------------- |
+| 1   | [Reference Architecture](#) | Common best-practices for deploying vector search architecture in production. |
+| 2   | [Model Hosting](#)          | Suggestions on how to host your vector models.                                |
+| 3   | [Model Versioning](#)       | Common best-practices for versioning your models as they evolve.              |
+| 4   | [Feedback Loops](#)         | Lorem ipsum.                                                                  |
 
 ## Education
 

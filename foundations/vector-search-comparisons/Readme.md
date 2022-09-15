@@ -10,19 +10,15 @@ This repository will discuss the various criteria to use when evaluating the lan
 | [Performance](#performance) |          |          |        |               |                         |
 | MLOps                       |          |          |        |               |                         |
 | Developer Experience        |          |          |        |               |                         |
-| Reliability                 |          |          |        |               |                         |
+| Availability                 |          |          |        |               |                         |
 | Security                    |          |          |        |               |                         |
 | Cost                        |          |          |        |               |                         |
 
 
 ### Hosting
 
-Do you have own engineering team to look after self-hosting a vector database? If you do, you might consider hosting it with the help of your team, but it is also an opportunity cost by itself. If you don’t, having the vector database managed might be a good solution.
+Where is the search engine deployed? Do you get the option? Is it self-managed or on premise?
 
 ### Performance
 
-What latency requirements does your app have? Is it served online or in batch offline mode?
-
-## References
-
--   [Dmitry Kan's How to Choose a Vector Database](https://dmitry-kan.medium.com/how-to-choose-a-vector-database-8c6e6f0f8f8b)
+What is the insert and read SLA?

@@ -22,20 +22,20 @@ Here is how you may use a Vector Search engine within your application search en
 | --- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Word vs Vector Search                                               | The difference between standard (TF-IDF) word search and vector search and when to use each.                              |
 | 2   | DIY Word Embeddings                                                 | An educational walkthrough of building your own word embedding vector model.                                              |
-| 3   | TBD Vector Search                                                   | Guides that showcase TBD's vector search implementation.                                                                  |
+| 3   | [TBD Vector Search](/foundations/tbd-vector-search)                 | Guides that showcase TBD's vector search implementation.                                                                  |
 | 4   | Vector Model Comparisons                                            | A comparison of the most popular vector models and trade-offs between each.                                               |
 | 5   | [Vector Search Comparisons](/foundations/vector-search-comparisons) | A comparison of the most popular vector search engines comparing query syntax, index definitions and document structures. |
 
 ## Use Cases
 
-| #   | Label                                                      | Description                                           |
-| --- | ---------------------------------------------------------- | ----------------------------------------------------- |
-| 1   | Sentence Similarity                                        | Determination of how similar to texts are.            |
-| 2   | Named Entity Recognition                                   | Classification of text into pre-defined categories.   |
-| 3   | Question and Answering](/use-cases/question-and-answering) | Building systems that automatically answer questions. |
-| 4   | Personalization                                            | Using client data to personalize query results.       |
-| 5   | Automated Synonym Creation                                 | Lorem ipsum.                                          |
-| 6   | Content Creation                                           | Lorem ipsum.                                          |
+| #   | Label                                                       | Description                                           |
+| --- | ----------------------------------------------------------- | ----------------------------------------------------- |
+| 1   | Sentence Similarity                                         | Determination of how similar to texts are.            |
+| 2   | Named Entity Recognition                                    | Classification of text into pre-defined categories.   |
+| 3   | [Question and Answering](/use-cases/question-and-answering) | Building systems that automatically answer questions. |
+| 4   | Personalization                                             | Using client data to personalize query results.       |
+| 5   | Automated Synonym Creation                                  | Lorem ipsum.                                          |
+| 6   | Content Creation                                            | Lorem ipsum.                                          |
 
 ## Architecture
 
@@ -50,16 +50,16 @@ Here is how you may use a Vector Search engine within your application search en
 
 Although a challenging topic to grasp, there's a myriad of educational resources at your disposal.
 
-- [Attention Is All You Need Research Paper](https://arxiv.org/pdf/1706.03762.pdf)
-- [Google Vector Search](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
-- [Lucene KNN Discussion](https://issues.apache.org/jira/browse/LUCENE-9004)
-- [Transformers by Pinecone](https://www.pinecone.io/learn/transformers/)
-- [BERT Research Paper](https://arxiv.org/pdf/1810.04805.pdf)
-- [Transformers by Huggingface](https://aclanthology.org/2020.emnlp-demos.6.pdf)
+-   [Attention Is All You Need Research Paper](https://arxiv.org/pdf/1706.03762.pdf)
+-   [Google Vector Search](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
+-   [Lucene KNN Discussion](https://issues.apache.org/jira/browse/LUCENE-9004)
+-   [Transformers by Pinecone](https://www.pinecone.io/learn/transformers/)
+-   [BERT Research Paper](https://arxiv.org/pdf/1810.04805.pdf)
+-   [Transformers by Huggingface](https://aclanthology.org/2020.emnlp-demos.6.pdf)
 
 ## Gratitude
 
 This repository wouldn't be possible without several key individuals:
 
-- [Nick Gogan](https://github.com/nickgogan)
-- [Marcus Eagan](https://github.com/MarcusSorealheis)
+-   [Nick Gogan](https://github.com/nickgogan)
+-   [Marcus Eagan](https://github.com/MarcusSorealheis)

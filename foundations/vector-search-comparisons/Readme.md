@@ -4,7 +4,7 @@ This repository will discuss the various criteria to use when evaluating the lan
 
 ## Comparisons
 
-|                             | Pinecone | Weaviate | Google | ElasticSearch | Search.io (now Algolia) |
+|                             | [Pinecone](https://www.pinecone.io/docs/) | [Weaviate](https://weaviate.io/developers/weaviate/current/) | [Google](https://cloud.google.com/vertex-ai/docs/matching-engine/overview) | [ElasticSearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/dense-vector.html) | [Algolia](https://www.algolia.com/blog/product/semantic-search-how-it-works-who-its-for/) |
 | --------------------------- | -------- | -------- | ------ | ------------- | ----------------------- |
 | [Hosting](#hosting)         |          |          |        |               |                         |
 | [Performance](#performance) |          |          |        |               |                         |

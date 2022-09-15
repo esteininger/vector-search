@@ -18,13 +18,13 @@ Here is how you may use a Vector Search engine within your application search en
 
 ## Foundations
 
-| #   | Label                                                               | Description                                                                                                               |
-| --- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Word vs Vector Search                                               | The difference between standard (TF-IDF) word search and vector search and when to use each.                              |
-| 2   | DIY Word Embeddings                                                 | An educational walkthrough of building your own word embedding vector model.                                              |
-| 3   | [TBD Vector Search](/foundations/tbd-vector-search)                 | Guides that showcase TBD's vector search implementation.                                                                  |
-| 4   | Vector Model Comparisons                                            | A comparison of the most popular vector models and trade-offs between each.                                               |
-| 5   | [Vector Search Comparisons](/foundations/vector-search-comparisons) | A comparison of the most popular vector search engines comparing query syntax, index definitions and document structures. |
+| #   | Label                                                               | Description                                                                                  |
+| --- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 1   | Word vs Vector Search                                               | The difference between standard (TF-IDF) text search and vector search and when to use each. |
+| 2   | DIY Word Embeddings                                                 | An educational walkthrough of building your own word embedding vector model.                 |
+| 3   | [TBD Vector Search](/foundations/tbd-vector-search)                 | Guides that showcase TBD's vector search implementation.                                     |
+| 4   | Vector Model Comparisons                                            | A comparison of the most popular vector models and trade-offs between each.                  |
+| 5   | [Vector Search Comparisons](/foundations/vector-search-comparisons) | A comparison of the most popular vector search engines.                                      |
 
 ## Use Cases
 
@@ -34,9 +34,9 @@ Here is how you may use a Vector Search engine within your application search en
 | 2   | Token Classification                                        | Classification of text into pre-defined categories.   |
 | 3   | [Question and Answering](/use-cases/question-and-answering) | Building systems that automatically answer questions. |
 | 4   | Personalization                                             | Using client data to personalize query results.       |
-| 5   | Automated Synonym Creation                                  | Lorem ipsum.                                          |
-| 6   | Summarization                                               | Lorem ipsum.                                          |
-| 7   | Conversational                                              | Lorem ipsum.                                          |
+| 5   | Automated Synonym Creation                                  | Enriching synonyms collection automatically.          |
+| 6   | Summarization                                               | Reconstruction of a corpus into less words.           |
+| 7   | Conversational                                              | Dialogue response generation .                        |
 
 ## Architecture
 

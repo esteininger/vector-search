@@ -1,6 +1,6 @@
 ## Vector Search
 
-Vector Search provides the capability for developers to **store** dense vectors, structured around certain algorithms (i.e. KNN), and an engine to **compute** similar vectors (i.e. euclidean distance) for relevance score calculation.
+Vector Search provides the capability for developers to `store` dense vectors, structured around certain algorithms (i.e. KNN), and an engine to `compute` similar vectors (i.e. euclidean distance) to determine which strings are relevant.
 
 This repository provides a comprehensive overview of the vector search landscape inclusive of tutorials, guides, best-practices, and extended learning. Please review the [Education](https://github.com/esteininger/vector-search#education) section to learn more.
 

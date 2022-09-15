@@ -31,11 +31,12 @@ Here is how you may use a Vector Search engine within your application search en
 | #   | Label                                                       | Description                                           |
 | --- | ----------------------------------------------------------- | ----------------------------------------------------- |
 | 1   | Sentence Similarity                                         | Determination of how similar to texts are.            |
-| 2   | Named Entity Recognition                                    | Classification of text into pre-defined categories.   |
+| 2   | Token Classification                                        | Classification of text into pre-defined categories.   |
 | 3   | [Question and Answering](/use-cases/question-and-answering) | Building systems that automatically answer questions. |
 | 4   | Personalization                                             | Using client data to personalize query results.       |
 | 5   | Automated Synonym Creation                                  | Lorem ipsum.                                          |
-| 6   | Content Creation                                            | Lorem ipsum.                                          |
+| 6   | Summarization                                               | Lorem ipsum.                                          |
+| 7   | Conversational                                              | Lorem ipsum.                                          |
 
 ## Architecture
 

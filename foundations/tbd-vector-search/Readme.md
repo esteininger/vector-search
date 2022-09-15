@@ -1,7 +1,10 @@
-## TBD Vector Search
+# TBD Vector Search
 
-This repository will showcase how to use TBD's Vector Search feature set to perform storage and retrieval of similar vectors.
+A toolkit for `storing` and `computing` similarity vectors within TBD's existing Search API. 
 
-See this video for a brief introduction:
+Compatible with any programming language via TBD's native [drivers](#) and deployable within any cloud environment via a UI and API. 
 
-[<img src="assets/preview.png" width="400">](https://www.youtube.com/watch?v=4QUGWnz-XaA)
+[<img src="assets/preview.png" width="700">](https://www.youtube.com/watch?v=4QUGWnz-XaA)
+
+## Usage
+Install the dependencies via `pip install -r requirements.txt`.

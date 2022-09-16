@@ -20,7 +20,7 @@ Here is how you may use a Vector Search engine within your application search en
 
 | #   | Label                                                               | Description                                                                                  |
 | --- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 1   | Word vs Vector Search                                               | The difference between standard (TF-IDF) text search and vector search and when to use each. |
+| 1   | Keyword vs Vector Search                                            | The difference between standard (TF-IDF) text search and vector search and when to use each. |
 | 2   | DIY Word Embeddings                                                 | An educational walkthrough of building your own word embedding vector model.                 |
 | 3   | [TBD Vector Search](/foundations/tbd-vector-search)                 | Guides that showcase TBD's vector search implementation.                                     |
 | 4   | Vector Model Comparisons                                            | A comparison of the most popular vector models and trade-offs between each.                  |

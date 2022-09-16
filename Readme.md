@@ -64,3 +64,10 @@ This repository wouldn't be possible without several key individuals:
 
 -   [Nick Gogan](https://github.com/nickgogan)
 -   [Marcus Eagan](https://github.com/MarcusSorealheis)
+
+
+## Watch for Changes
+
+This is a living repository and will evolve as I learn and the landscape changes. Please subscribe to changes accordingly via:
+
+<center><img src="/assets/watch.png"></center>

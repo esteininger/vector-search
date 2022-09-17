@@ -9,7 +9,8 @@ This repository will discuss the various criteria to use when evaluating the lan
 | [Hosting](#hosting)         |          |          |        |               |                         |
 | [Performance](#performance) |          |          |        |               |                         |
 | MLOps                       |          |          |        |               |                         |
-| Developer Experience        |          |          |        |               |                         |
+| Query Syntax        |          |          |        |               |                         |
+| Index Definition        |          |          |        |               |                         |
 | Availability                 |          |          |        |               |                         |
 | Security                    |          |          |        |               |                         |
 | Cost                        |          |          |        |               |                         |

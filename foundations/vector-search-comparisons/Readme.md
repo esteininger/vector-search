@@ -2,15 +2,15 @@
 
 This repository will discuss the various criteria to use when evaluating the landscape of vector search technologies.
 
-|                                         	| Pinecone   	| Weaviate 	| Google     	| Elastic 	| Algolia    	| Vespa  	| Milvus 	| Redis  	| Qdrant 	| OpenSearch 	|
-|-----------------------------------------	|------------	|----------	|------------	|---------	|------------	|--------	|--------	|--------	|--------	|------------	|
-| [Hosting](#Hosting)                     	| Cloud Only 	| Hybrid   	| Cloud Only 	| Hybrid  	| Cloud Only 	| Hybrid 	| Hybrid 	| Hybrid 	| Hybrid 	| Hybrid     	|
-| [Performance](#Performance)             	|            	|          	|            	|         	|            	|        	|        	|        	|        	|            	|
-| [MLOps](#MLOps)                         	|            	|          	|            	|         	|            	|        	|        	|        	|        	|            	|
-| [Availability](#Availability)           	|            	|          	|            	|         	|            	|        	|        	|        	|        	|            	|
-| [Security](#Security)                   	|            	|          	|            	|         	|            	|        	|        	|        	|        	|            	|
-| [Cost](#Cost)                           	|            	|          	|            	|         	|            	|        	|        	|        	|        	|            	|
-| [Community](#Community) 	|            	| 31       	|            	| 161     	|            	|        	| 194    	| 617    	| 28     	| 135        	|
+|                               | Pinecone   | Weaviate | Google     | Elastic | Algolia    | Vespa  | Milvus | Redis  | Qdrant | OpenSearch |
+|:------------------------------|:-----------|:---------|:-----------|:--------|:-----------|:-------|:-------|:-------|:-------|:-|
+| [Hosting](#Hosting)           | Cloud Only | Hybrid   | Cloud Only | Hybrid  | Cloud Only | Hybrid | Hybrid | Hybrid | Hybrid | Hybrid |
+| [Performance](#Performance)   |            |          |            |         |            |        |        |        |        |  |
+| [MLOps](#MLOps)               |            |          |            |         |            |        |        |        |        |  |
+| [Availability](#Availability) |            |          |            |         |            |        |        |        |        |  |
+| [Security](#Security)         |            |          |            |         |            |        |        |        |        |  |
+| [Cost](#Cost)                 |            |          |            |         |            |        |        |        |        |  |
+| [Community](#Community)       | N/A        | 31       | N/A        | 161     | N/A        | N/A    | 194    | 617    | 28     | 135 |
 
 # Criteria
 
@@ -18,8 +18,8 @@ This repository will discuss the various criteria to use when evaluating the lan
 
 Where is the search engine deployable?
 
-- **Hybrid:** Can be deployed as a managed service in the cloud or self-managed on premise.
-- **Cloud Only:** Can only be deployed as a managed service in the cloud.
+-   **Hybrid:** Can be deployed as a managed service in the cloud or self-managed on premise.
+-   **Cloud Only:** Can only be deployed as a managed service in the cloud.
 
 ## Performance
 

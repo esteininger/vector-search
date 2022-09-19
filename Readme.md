@@ -53,7 +53,7 @@ Although a challenging topic to grasp, there's a myriad of educational resources
 
 -   [Attention Is All You Need Research Paper](https://arxiv.org/pdf/1706.03762.pdf)
 -   [Google Vector Search](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
--   [Lucene KNN Discussion](https://issues.apache.org/jira/browse/LUCENE-9004)
+-   [Lucene KNN MVP](https://issues.apache.org/jira/browse/LUCENE-9004) & [Follow-Up](https://issues.apache.org/jira/browse/LUCENE-10054)
 -   [Transformers by Pinecone](https://www.pinecone.io/learn/transformers/)
 -   [BERT Research Paper](https://arxiv.org/pdf/1810.04805.pdf)
 -   [Transformers by Huggingface](https://aclanthology.org/2020.emnlp-demos.6.pdf)

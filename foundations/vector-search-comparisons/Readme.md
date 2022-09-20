@@ -2,15 +2,16 @@
 
 This repository will discuss the various criteria to use when evaluating the landscape of vector search technologies.
 
-|                               | Pinecone   | Weaviate | Google     | Elastic | Algolia    | Vespa  | Milvus | Redis  | Qdrant | OpenSearch |
-|:------------------------------|:-----------|:---------|:-----------|:--------|:-----------|:-------|:-------|:-------|:-------|:-|
-| [Hosting](#Hosting)           | Cloud Only | Hybrid   | Cloud Only | Hybrid  | Cloud Only | Hybrid | Hybrid | Hybrid | Hybrid | Hybrid |
-| [Performance](#Performance)   |            |          |            |         |            |        |        |        |        |  |
-| [MLOps](#MLOps)               |            |          |            |         |            |        |        |        |        |  |
-| [Availability](#Availability) |            |          |            |         |            |        |        |        |        |  |
-| [Security](#Security)         |            |          |            |         |            |        |        |        |        |  |
-| [Cost](#Cost)                 |            |          |            |         |            |        |        |        |        |  |
-| [Community](#Community)       | N/A        | 31       | N/A        | 161     | N/A        | N/A    | 194    | 617    | 28     | 135 |
+|                                     | Pinecone   | Weaviate | Google     | Elastic | Algolia    | Vespa  | Milvus | Redis  | Qdrant | OpenSearch |
+|:------------------------------------|:-----------|:---------|:-----------|:--------|:-----------|:-------|:-------|:-------|:-------|:-|
+| [Hosting](#Hosting)                 | Cloud Only | Hybrid   | Cloud Only | Hybrid  | Cloud Only | Hybrid | Hybrid | Hybrid | Hybrid | Hybrid |
+| [Performance](#Performance)         |            |          |            |         |            |        |        |        |        |  |
+| [MLOps](#MLOps)                     |            |          |            |         |            |        |        |        |        |  |
+| [Availability](#Availability)       |            |          |            |         |            |        |        |        |        |  |
+| [Security](#Security)               |            |          |            |         |            |        |        |        |        |  |
+| [Cost](#Cost)                       |            |          |            |         |            |        |        |        |        |  |
+| [Community](#Community)             | N/A        | 31       | N/A        | 161     | N/A        | N/A    | 194    | 617    | 28     | 135 |
+| [Dense vs Sparse](#Dense-vs-Sparse) |            |          | Dense      | Both    | Both       |        |        | Both   |        | Both |
 
 # Criteria
 
@@ -54,6 +55,10 @@ Proposed benchmarks below:
 ## Community
 
 With the caveat that some of these vector search engines are baked into a parent repository (i.e. Redis vector search within core Redis) we've taken the total number of contributors as of 9/19/2022.
+
+## Dense vs Sparse
+
+Can you perform dense vector searches in conjunction with sparse vector searches?
 
 # Database Details
 

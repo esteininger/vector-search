@@ -5,15 +5,15 @@ This repository will discuss the various criteria to use when evaluating the lan
 |            	| [Hosting](#Hosting) 	| [Performance](#Performance) 	| [MLOps](#MLOps) 	| [Availability](#Availability) 	| [Security](#Security) 	| [Cost](#Cost) 	| [Community](#Community) 	| [Dense vs Sparse](#Dense-vs-Sparse) 	|
 |------------	|---------------------	|-----------------------------	|-----------------	|-------------------------------	|-----------------------	|---------------	|-------------------------	|-------------------------------------	|
 | Pinecone   	| Cloud Only          	|                             	|                 	|                               	|                       	|               	| N/A                     	|                                     	|
-| Weaviate   	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 31                      	|                                     	|
+| Weaviate   	| Both              	|                             	|                 	|                               	|                       	|               	| 31                      	|                                     	|
 | Google     	| Cloud Only          	|                             	|                 	|                               	|                       	|               	| N/A                     	| Dense                               	|
-| Elastic    	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 161                     	| Both                                	|
+| Elastic    	| Both              	|                             	|                 	|                               	|                       	|               	| 161                     	| Both                                	|
 | Algolia    	| Cloud Only          	|                             	|                 	|                               	|                       	|               	| N/A                     	| Both                                	|
-| Vespa      	| Hybrid              	|                             	|                 	|                               	|                       	|               	| N/A                     	|                                     	|
-| Milvus     	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 194                     	|                                     	|
-| Redis      	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 617                     	| Both                                	|
-| Qdrant     	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 28                      	|                                     	|
-| OpenSearch 	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 135                     	| Both                                	|
+| Vespa      	| Both              	|                             	|                 	|                               	|                       	|               	| N/A                     	|                                     	|
+| Milvus     	| Both              	|                             	|                 	|                               	|                       	|               	| 194                     	|                                     	|
+| Redis      	| Both              	|                             	|                 	|                               	|                       	|               	| 617                     	| Both                                	|
+| Qdrant     	| Both              	|                             	|                 	|                               	|                       	|               	| 28                      	|                                     	|
+| OpenSearch 	| Both              	|                             	|                 	|                               	|                       	|               	| 135                     	| Both                                	|
 | LucidWorks 	| Cloud Only          	|                             	|                 	|                               	|                       	|               	|                         	|                                     	|
 
 # Criteria
@@ -22,7 +22,7 @@ This repository will discuss the various criteria to use when evaluating the lan
 
 Where is the search engine deployable?
 
--   **Hybrid:** Can be deployed as a managed service in the cloud or self-managed on premise.
+-   **Both:** Can be deployed as a managed service in the cloud or self-managed on premise.
 -   **Cloud Only:** Can only be deployed as a managed service in the cloud.
 
 ## Performance

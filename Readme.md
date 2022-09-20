@@ -52,12 +52,30 @@ Here is how you may use a Vector Search engine within your application search en
 
 Although a challenging topic to grasp, there's a myriad of educational resources at your disposal.
 
--   [Attention Is All You Need Research Paper](https://arxiv.org/pdf/1706.03762.pdf)
--   [Google Vector Search](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
--   [Lucene KNN MVP](https://issues.apache.org/jira/browse/LUCENE-9004) & [Follow-Up](https://issues.apache.org/jira/browse/LUCENE-10054)
+### Information Retrieval
+
+Overarching field of education.
+
+- [A Primer on Neural Network Models for Natural Language Processing](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
+
+### Transformer Architecture
+
+Latest breakthrough in the are of conversion of human content (text, images, etc.) into vector representations.
+Transformers are a deep learning model that utilize "self-attention", and differentially weigh the significance of each part of the input data.
+
 -   [Transformers by Pinecone](https://www.pinecone.io/learn/transformers/)
--   [BERT Research Paper](https://arxiv.org/pdf/1810.04805.pdf)
 -   [Transformers by Huggingface](https://aclanthology.org/2020.emnlp-demos.6.pdf)
+-   [Attention Is All You Need Research Paper](https://arxiv.org/pdf/1706.03762.pdf)
+-   [BERT Research Paper](https://arxiv.org/pdf/1810.04805.pdf)
+
+### Similarity Search
+
+In order to determine what is deemed relevant, computers need to measure the distance between points, in this case vectors.
+
+-   [Lucene KNN MVP](https://issues.apache.org/jira/browse/LUCENE-9004) & [Follow-Up](https://issues.apache.org/jira/browse/LUCENE-10054)
+-   [Google Vector Search](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
 
 ## Gratitude
 

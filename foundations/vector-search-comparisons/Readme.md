@@ -105,7 +105,8 @@ TBA
 
 [Documentation](https://opensearch.org/docs/latest/search-plugins/knn/approximate-knn/)
 
-## References
+## Extended Reading
 
 - [qdrant's open source benchmark](https://qdrant.tech/benchmarks/)
 - [Measuring the popularity of different Vector Databases](https://gradientflow.com/the-vector-database-index/)
+- [Comparison of Milvus, Pinecone, Vespa, Weaviate, Vald, GSI and Qdrant](https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)

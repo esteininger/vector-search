@@ -107,4 +107,5 @@ TBA
 
 ## References
 
--   [qdrant's open source benchmark](https://qdrant.tech/benchmarks/)
+- [qdrant's open source benchmark](https://qdrant.tech/benchmarks/)
+- [Measuring the popularity of different Vector Databases](https://gradientflow.com/the-vector-database-index/)

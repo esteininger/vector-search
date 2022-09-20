@@ -2,16 +2,19 @@
 
 This repository will discuss the various criteria to use when evaluating the landscape of vector search technologies.
 
-|                                     | Pinecone   | Weaviate | Google     | Elastic | Algolia    | Vespa  | Milvus | Redis  | Qdrant | OpenSearch |
-|:------------------------------------|:-----------|:---------|:-----------|:--------|:-----------|:-------|:-------|:-------|:-------|:-|
-| [Hosting](#Hosting)                 | Cloud Only | Hybrid   | Cloud Only | Hybrid  | Cloud Only | Hybrid | Hybrid | Hybrid | Hybrid | Hybrid |
-| [Performance](#Performance)         |            |          |            |         |            |        |        |        |        |  |
-| [MLOps](#MLOps)                     |            |          |            |         |            |        |        |        |        |  |
-| [Availability](#Availability)       |            |          |            |         |            |        |        |        |        |  |
-| [Security](#Security)               |            |          |            |         |            |        |        |        |        |  |
-| [Cost](#Cost)                       |            |          |            |         |            |        |        |        |        |  |
-| [Community](#Community)             | N/A        | 31       | N/A        | 161     | N/A        | N/A    | 194    | 617    | 28     | 135 |
-| [Dense vs Sparse](#Dense-vs-Sparse) |            |          | Dense      | Both    | Both       |        |        | Both   |        | Both |
+|            	| [Hosting](#Hosting) 	| [Performance](#Performance) 	| [MLOps](#MLOps) 	| [Availability](#Availability) 	| [Security](#Security) 	| [Cost](#Cost) 	| [Community](#Community) 	| [Dense vs Sparse](#Dense-vs-Sparse) 	|
+|------------	|---------------------	|-----------------------------	|-----------------	|-------------------------------	|-----------------------	|---------------	|-------------------------	|-------------------------------------	|
+| Pinecone   	| Cloud Only          	|                             	|                 	|                               	|                       	|               	| N/A                     	|                                     	|
+| Weaviate   	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 31                      	|                                     	|
+| Google     	| Cloud Only          	|                             	|                 	|                               	|                       	|               	| N/A                     	| Dense                               	|
+| Elastic    	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 161                     	| Both                                	|
+| Algolia    	| Cloud Only          	|                             	|                 	|                               	|                       	|               	| N/A                     	| Both                                	|
+| Vespa      	| Hybrid              	|                             	|                 	|                               	|                       	|               	| N/A                     	|                                     	|
+| Milvus     	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 194                     	|                                     	|
+| Redis      	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 617                     	| Both                                	|
+| Qdrant     	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 28                      	|                                     	|
+| OpenSearch 	| Hybrid              	|                             	|                 	|                               	|                       	|               	| 135                     	| Both                                	|
+| LucidWorks 	| Cloud Only          	|                             	|                 	|                               	|                       	|               	|                         	|                                     	|
 
 # Criteria
 

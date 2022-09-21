@@ -75,6 +75,7 @@ In order to determine what is deemed relevant, computers need to measure the dis
 
 -   [Lucene KNN MVP](https://issues.apache.org/jira/browse/LUCENE-9004) & [Follow-Up](https://issues.apache.org/jira/browse/LUCENE-10054)
 -   [Google Vector Search](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
+- [HNSW Graphs Research Paper](https://arxiv.org/abs/1603.09320)
 
 ## Gratitude
 

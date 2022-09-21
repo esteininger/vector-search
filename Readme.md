@@ -61,7 +61,7 @@ Overarching field of education.
 
 ### Transformer Architecture
 
-Latest breakthrough in the are of conversion of human content (text, images, etc.) into vector representations.
+Latest breakthrough in the area of converting human content (text, images, etc.) into vector representations.
 Transformers are a deep learning model that utilize "self-attention", and differentially weigh the significance of each part of the input data.
 
 -   [Transformers by Pinecone](https://www.pinecone.io/learn/transformers/)

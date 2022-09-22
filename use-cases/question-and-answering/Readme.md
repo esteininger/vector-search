@@ -32,7 +32,7 @@ The heart of vector search is in the similarity calculation. Here we use [cosine
 scores = util.cos_sim(query_vector, corpus_vector)[0].cpu().tolist()
 ```
 ```text
-It spans an archipelago of 6852 islands.
+"It spans an archipelago of 6852 islands."
 ```
 
 ## Next Steps

@@ -3,7 +3,7 @@
 
 Using transformer architecture, we store a corpus (array of strings) as a vector embedding then send a human-native question also via a vector embedding to our similarity calculation.
 
-[<img src="qa-preview.png" width="700">](youtube.com/watch?v=aiye4QDaf6g)
+[<img src="qa-preview.png" width="700">](https://www.youtube.com/watch?v=aiye4QDaf6g&ab_channel=ExplainLikeI%27m5)
 
 
 ### 1. Import Dependencies

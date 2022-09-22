@@ -1,7 +1,7 @@
 
 ## Question and Answering
 
-Using transformer architecture, we store a corpus (array of strings) as a vector embedding then send a human-native question also via a vector embedding to our similarity calculation.
+Using transformer architecture, we store a corpus (array of strings) as a vector embedding then send a `human-native question` also via a vector embedding to our similarity calculation.
 
 See the short video below:
 

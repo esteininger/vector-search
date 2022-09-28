@@ -45,7 +45,7 @@ Here is how you may use a Vector Search engine within your application search ar
 | 1 | Reference Architecture | Common best-practices for deploying vector search architecture in production. |
 | 2 | Model Hosting          | Suggestions on how to host your vector models.  |
 | 3 | Model Versioning       | Common best-practices for versioning your models as they evolve. |
-| 4 | Feedback Loops         | Lorem ipsum.                                    |
+| 4 | Feedback Loops         | Query re-ranking, learn-to-rank and more.                                    |
 
 ## Education
 

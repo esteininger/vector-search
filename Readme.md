@@ -22,7 +22,7 @@ Here is how you may use a Vector Search engine within your application search ar
 |:--|:--------------------------------------------------------------------|:---|
 | 1 | Keyword vs Vector Search                                            | The difference between standard (TF-IDF) text search and vector search and when to use each. |
 | 2 | DIY Word Embeddings                                                 | An educational walkthrough of building your own word embedding vector model. |
-| 3 | [Atlas Vector Search Engine](/foundations/tbd-vector-search)                 | Guides that showcase MongoDB Atlas' vector search implementation. |
+| 3 | [Atlas Vector Search Engine](/foundations/atlas-vector-search)                 | Guides that showcase MongoDB Atlas' vector search implementation. |
 | 4 | [Vector Search Comparisons](/foundations/vector-search-comparisons) | A comparison of the most popular vector search engines. |
 
 ## Use Cases

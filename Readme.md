@@ -22,7 +22,7 @@ Here is how you may use a Vector Search engine within your application search ar
 |:--|:--------------------------------------------------------------------|:---|
 | 1 | Keyword vs Vector Search                                            | The difference between standard (TF-IDF) text search and vector search and when to use each. |
 | 2 | [Sparse Vector Tutorial](/foundations/sparse-vector-tutorial)                                                 | A walkthrough of building your own sparse vector feature extraction engine. |
-| 3 | [Dense Vector Tutorial]                                                 | A walkthrough of building your own dense vector feature extraction engine. |
+| 3 | Dense Vector Tutorial                                                 | A walkthrough of building your own dense vector feature extraction engine. |
 | 4 | [Atlas Vector Search Engine](/foundations/atlas-vector-search)                 | Guides that showcase MongoDB Atlas' vector search implementation. |
 | 5 | [Vector Search Comparisons](/foundations/vector-search-comparisons) | A comparison of the most popular vector search engines. |
 

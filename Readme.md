@@ -1,6 +1,6 @@
 ## Vector Search
 
-Vector Search engines provide the ability for developers to `store` vectors structured around certain algorithms (i.e. KNN), and an engine to `compute` similar vectors (like cosine distance) to determine which vectors are related. 
+Vector Search engines provide the ability for developers to `store` vectors structured around certain algorithms (i.e. KNN), and an engine to `compute` similar vectors (like cosine distance) to determine which vectors are related.
 
 This repository provides a comprehensive overview of the vector search landscape inclusive of tutorials, guides, best-practices, and extended learning. Please review the [Education](https://github.com/esteininger/vector-search#education) section to learn more.
 
@@ -21,9 +21,10 @@ Here is how you may use a Vector Search engine within your application search ar
 | # | Label                                                               | Description |
 |:--|:--------------------------------------------------------------------|:---|
 | 1 | Keyword vs Vector Search                                            | The difference between standard (TF-IDF) text search and vector search and when to use each. |
-| 2 | DIY Word Embeddings                                                 | An educational walkthrough of building your own word embedding vector model. |
-| 3 | [Atlas Vector Search Engine](/foundations/atlas-vector-search)                 | Guides that showcase MongoDB Atlas' vector search implementation. |
-| 4 | [Vector Search Comparisons](/foundations/vector-search-comparisons) | A comparison of the most popular vector search engines. |
+| 2 | [Sparse Vector Tutorial](/foundations/sparse-vector-tutorial)                                                 | A walkthrough of building your own sparse vector feature extraction engine. |
+| 3 | [Dense Vector Tutorial]                                                 | A walkthrough of building your own dense vector feature extraction engine. |
+| 4 | [Atlas Vector Search Engine](/foundations/atlas-vector-search)                 | Guides that showcase MongoDB Atlas' vector search implementation. |
+| 5 | [Vector Search Comparisons](/foundations/vector-search-comparisons) | A comparison of the most popular vector search engines. |
 
 ## Use Cases
 

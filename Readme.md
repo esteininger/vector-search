@@ -1,6 +1,6 @@
 ## Vector Search
 
-Vector Search engines provide the capability for developers to `store` vectors structured around certain algorithms (i.e. KNN), and an engine to `compute` similar vectors (like cosine distance) to determine which vectors are related. 
+Vector Search engines provide the ability for developers to `store` vectors structured around certain algorithms (i.e. KNN), and an engine to `compute` similar vectors (like cosine distance) to determine which vectors are related. 
 
 This repository provides a comprehensive overview of the vector search landscape inclusive of tutorials, guides, best-practices, and extended learning. Please review the [Education](https://github.com/esteininger/vector-search#education) section to learn more.
 

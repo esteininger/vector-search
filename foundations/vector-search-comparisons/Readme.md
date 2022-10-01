@@ -1,4 +1,4 @@
-# Vector Search Comparisons
+# Vector Search Engine Comparisons
 
 This repository will discuss the various criteria to use when evaluating the landscape of vector search technologies.
 

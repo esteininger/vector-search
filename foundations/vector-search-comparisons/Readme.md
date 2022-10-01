@@ -1,6 +1,6 @@
 # Vector Search Engine Comparisons
 
-This repository will discuss the various criteria to use when evaluating the landscape of vector search technologies.
+This repository will discuss the various criteria to use when evaluating the landscape of vector search engine technologies.
 
 |            	| [Hosting](#Hosting) 	| [Performance](#Performance) 	| [MLOps](#MLOps) 	| [Availability](#Availability) 	| [Security](#Security) 	| [Cost](#Cost) 	| [Community](#Community) 	| [Dense vs Sparse](#Dense-vs-Sparse) 	|
 |------------	|---------------------	|-----------------------------	|-----------------	|-------------------------------	|-----------------------	|---------------	|-------------------------	|-------------------------------------	|

@@ -7,7 +7,7 @@ See the short video below:
 
 [<img src="assets/preview.png" width="700">](https://www.youtube.com/watch?v=un4mRr1G6Js)
 
-[Jupyter Notebook Demonstration](/Atlas_Vector_Search_Demonstration.ipynb)
+[Jupyter Notebook Demonstration](Atlas_Vector_Search_Demonstration.ipynb)
 
 ### 1. Install Dependencies
 

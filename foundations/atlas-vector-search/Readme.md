@@ -109,3 +109,6 @@ pipeline = [
 
 - [Model versioning, hosting, and scaling](https://github.com/esteininger/vector-search#architecture)
 - Implement any number of the [vector search use cases](https://github.com/esteininger/vector-search#use-cases)
+
+## Links
+- [Lucene HNSW Data Type](https://lucene.apache.org/core/9_0_0/core/org/apache/lucene/codecs/lucene90/Lucene90HnswVectorsFormat.html)

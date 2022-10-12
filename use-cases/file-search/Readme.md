@@ -13,4 +13,4 @@ TBA
 
 ## File Contents Search
 
-[Guidance Here](https://github.com/esteininger/atlas-search-guide/tree/master/patterns/13-file-search)
+TBA

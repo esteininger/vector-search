@@ -1,5 +1,14 @@
 # Vector Search Engine Comparisons
 
+From my research, the Vector Search landscape is converging around these five offerings:
+
+1. String Lookups (Database)
+2. Vector Embedding (ML)
+3. ANN/kNN (Vector Search)
+4. Filtering (Token Search - tf-idf/bm25)
+5. Re-Ranking (Feedback Loops, Model Re-Training, Learn-To-Rank, etc.)
+---
+
 This repository will discuss the various criteria to use when evaluating the landscape of vector search engine technologies.
 
 |            	| [Hosting](#Hosting) 	| [Performance](#Performance) 	| [MLOps](#MLOps) 	| [Availability](#Availability) 	| [Security](#Security) 	| [Cost](#Cost) 	| [Community](#Community) 	| [Dense vs Sparse](#Dense-vs-Sparse) 	|

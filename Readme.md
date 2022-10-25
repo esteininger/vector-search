@@ -47,6 +47,8 @@ Here is how you may use a Vector Search engine within your application search ar
 | 2 | Model Hosting          | Suggestions on how to host your vector models.  |
 | 3 | Model Versioning       | Common best-practices for versioning your models as they evolve. |
 | 4 | Feedback Loops         | Query re-ranking, learn-to-rank and more.                                    |
+| 5 | Selecting Models         | Which model supports your domain-specific tasks best?                                    |
+
 
 ## Education
 

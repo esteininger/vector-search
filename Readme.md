@@ -37,7 +37,6 @@ Here is how you may use a Vector Search engine within your application search ar
 | 5 | Automated Synonym Creation                                  | Enriching synonyms collection automatically. |
 | 6 | Summarization                                               | Reconstruction of a corpus into less words. |
 | 7 | Conversational                                              | Dialogue response generation. |
-| 8 | [File Search](/use-cases/file-search)                       | Searching the contents of files. |
 
 ## Architecture
 

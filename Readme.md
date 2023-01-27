@@ -43,10 +43,10 @@ Here is how you may use a Vector Search engine within your application search ar
 
 | # | Source                 | Description                                     |
 |:--|:-----------------------|:------------------------------------------------|
-| 1 | Reference Architecture | Common best-practices for deploying vector search architecture in production. |
+| 1 | [Reference Architecture](https://esteininger.medium.com/vertical-integration-is-key-to-winning-the-ai-race-44c8e4bd3b30) | Common best-practices for deploying vector search architecture in production. |
 | 2 | Model Hosting          | Suggestions on how to host your vector models.  |
 | 3 | Model Versioning       | Common best-practices for versioning your models as they evolve. |
-| 4 | Feedback Loops         | Query re-ranking, learn-to-rank and more.                                    |
+| 4 | [Feedback Loops](https://learn.mixpeek.com/your-search-bar-is-a-product-roadmap-goldmine/)         | Query re-ranking, learn-to-rank and more.                                    |
 | 5 | Selecting Models         | Which model supports your domain-specific tasks best?                                    |
 
 

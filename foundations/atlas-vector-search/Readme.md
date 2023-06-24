@@ -99,6 +99,23 @@ pipeline = [
 ]
 ```
 
+## Retrieval Augmentation
+
+Retrieval augmentation is a technique for improving QA bots by augmenting the prompt with relevant documents retrieved from a knowledge base. This helps the bots to access information outside of their training set and improve interpretability. However, it can be challenging to retrieve relevant documents and for the bots to understand them.
+
+![diagram](https://huggingface.co/blog/assets/12_ray_rag/rag_gif.gif)
+
+[Further Reading](https://ai.facebook.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/)
+
+### Rough Steps
+1. Accept corpus
+2. Split into chunks
+3. Embed the chunks
+4. Ask a question (Q)
+5. Return top K chunks
+6. Run chunks through GPT
+7. Return results in a structured form
+
 ## Advanced Workflow
 
 1. Embedding

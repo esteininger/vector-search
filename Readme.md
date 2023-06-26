@@ -41,6 +41,8 @@ Here is how you may use a Vector Search engine within your application search ar
 
 ## Architecture
 
+[One-click model deployment that never leaves your AWS account](https://climb.dev)
+
 | # | Source                 | Description                                     |
 |:--|:-----------------------|:------------------------------------------------|
 | 1 | [Reference Architecture](https://esteininger.medium.com/vertical-integration-is-key-to-winning-the-ai-race-44c8e4bd3b30) | Common best-practices for deploying vector search architecture in production. |
